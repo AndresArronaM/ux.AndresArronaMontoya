@@ -1,0 +1,20 @@
+{
+  "name": "ux.andresarronamontoya",
+  "version": "1.0.0",
+  "description": "Mi guia de estilos",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresArronaM/ux.andresarronamontoya.git"
+  },
+  "keywords": [],
+  "author": "Andres Arrona Montoya",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AndresArronaM/ux.andresarronamontoya/issues"
+  },
+  "homepage": "https://github.com/AndresArronaM/ux.andresarronamontoya#readme"
+}
